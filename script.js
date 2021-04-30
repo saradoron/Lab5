@@ -109,8 +109,8 @@ document.querySelector("[type='button']").addEventListener('click', function() {
 
   var currVol = document.querySelector("[type='range']").value;
 
-  speak1.volume = currVol;
-  speak2.volume =currVol;
+  speak1.volume = currVol / 100;
+  speak2.volume =currVol / 100;
   speechSynthesis.speak(speak1);
   speechSynthesis.speak(speak2);
 });

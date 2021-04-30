@@ -1,12 +1,13 @@
 # CSE110 SP21 Lab 5
 
 ## Author(s):
-- YOUR NAME
+- Sara Doron
+- Blake Vonder-Haar
 
 ## Part 1:
 
-LINK TO YOUR PUBLISHED SITE
+https://saradoron.github.io/Lab5/
 
 ## Part 2:
 
-LINK TO YOUR PART 2 REPOSITORY
+https://github.com/saradoron/github-actions-for-ci/issues/4

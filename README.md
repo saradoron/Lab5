@@ -2,7 +2,6 @@
 
 ## Author(s):
 - Sara Doron
-- Blake Vonder-Haar
 
 ## Part 1:
 
